@@ -3,8 +3,9 @@
 ## Integrantes Grupo 1 ##
 - Lucas Varela 
 - Damian Bosatta 
+- Fabian Labrunee
 - Nicolas Francolino 
-- Fabian Labrunee 
+
 ## Introducción ##
 Trabajo Final del Bootcamp Backend .NET / C#  - DEV PLACE Tech Academy.
 	Este proyecto se trata de un servicio de chat en tiempo real implementado con tecnologia .Net contra SQL Server mediante APIs
