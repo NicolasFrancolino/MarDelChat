@@ -27,10 +27,10 @@ Se extrajo Visual Studio Community 2022 como herramienta de programacion
 - SQL Server  
 - .NET Framework Core 6.0  
 
-<p align="centro">
-  <img src="https://user-images.githubusercontent.com/91495463/176471635-f7b2ce83-58d5-4853-a7b4-43ebbca30228.png" alt="chat multiplataforma" width="600" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91495463/176471635-f7b2ce83-58d5-4853-a7b4-43ebbca30228.png" alt="cross-platform-chat" width="600" />
 </p>
-<p align="center"> https://docs.microsoft.com/es-es/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the- patrón-gateway-api#cuál-es-el-patrón-gateway-api </p>  
+<p align="center"> https://docs.microsoft.com/es-es/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern#what-is-the-api-gateway-pattern </p>  
 
 ###  En el FrontEnd, se extrajo la herramienta de desarrollo SignalR junto con Blazor ###  
 ####  SignalR ####
