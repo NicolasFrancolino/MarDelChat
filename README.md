@@ -26,7 +26,7 @@ Se utilizó Visual Studio Community 2022 como herramienta de programacion
 ### Para el desarrollo de la parte Backend se utilizaron principalmente los siguientes lenguajes y tecnologías: ###
 - C#  
 - SQL Server  
-- .NET Framework 6.0  
+- .NET Framework Core 6.0  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91495463/176471635-f7b2ce83-58d5-4853-a7b4-43ebbca30228.png" alt="cross-platform-chat" width="600" />
