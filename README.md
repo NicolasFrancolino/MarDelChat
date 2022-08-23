@@ -23,9 +23,9 @@ Trabajo Final del Bootcamp Backend .NET / C# - DEV PLACE Tech Academy.
 ##  Tecnologías y herramientas ##
 Se extrajo Visual Studio Community 2022 como herramienta de programacion
 ###  Para el desarrollo de la parte Backend se utilizaron principalmente los siguientes lenguajes y tecnologías: ###
--C #  
-- Servidor SQL  
--.NET Framework 6.0  
+- C#  
+- SQL Server  
+- .NET Framework 6.0  
 
 <p align="centro">
   <img src="https://user-images.githubusercontent.com/91495463/176471635-f7b2ce83-58d5-4853-a7b4-43ebbca30228.png" alt="chat multiplataforma" width="600" />
@@ -101,7 +101,7 @@ El proyecto está desarrollado usando la metodología de Arquitectura de N-Capas
     └───Propiedades  
 ```
 ##  Requisitos ##
--Net Framework 4.5
+-Net Framework Core 6
 
 ##  Diagrama de clases ##
 ![ ClassDiagram1 ](https://user-images.githubusercontent.com/91495463/176903373-1d8bcbc8-2e5c-4af8-8e91-471e0ec832d5.jpg)
