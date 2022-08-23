@@ -64,7 +64,7 @@ El modelo de hospedaje de Blazor Server ofrece las siguientes ventajas:
 - Se presentó clientes ligeros. Por ejemplo, las aplicaciones del lado servidor funcionan con exploradores que no eliminaron WebAssembly y en dispositivos con restricción de recursos.
 - La base del código de la aplicación .NET/C#, incluido el código de componente de la aplicación, no se sirve a los clientes.  
 <p align="center">
-  <img src="https://docs.microsoft.com/es-es/dotnet/architecture/blazor-for-web-forms-developers/media/hosting-models/blazor-server.png" alt="blazor- servidor" ancho="450" ​​/>
+  <img src="https://docs.microsoft.com/es-es/dotnet/architecture/blazor-for-web-forms-developers/media/hosting-models/blazor-server.png" alt="blazor-server" width="450" />
 </p>  
 <p align="center"> https://docs.microsoft.com/es-es/dotnet/architecture/blazor-for-web-forms-developers/hosting-models </p>  
 
