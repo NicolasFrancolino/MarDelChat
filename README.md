@@ -38,17 +38,17 @@ SignalR es una librería o framework de desarrollo que permite conectar en nuest
 Con SignalR podemos conectar a un servicio tanto clientes como digamos, pudiendo escalar el servicio bajo demanda.
 Las conexiones al servicio se realizan con autenticación multifactor, gracias a la clave de acceso, que nos devuelve un token de sesión válido para que las aplicaciones de los clientes consuman el servicio.
 Esta herramienta permite desarrollar una aplicación sobre una conexión virtualmente siempre abierta, creando la sensación de estar trabajando en una conexión continua. Del lado del servidor se puede detectar cuando se ha conectado o desconectado un nuevo cliente, se puede recibir mensajes de los mismos y enviar mensajes a los clientes conectados, en definitiva, todo lo necesario para poder crear aplicaciones asincronas multiusuario.  
-<p align="centro">
-  <img src="https://docs.microsoft.com/es-ES/azure/architecture/solution-ideas/media/cross-platform-chat.png" alt="cross-platform-chat" width="400 " />
+<p align="center">
+  <img src="https://docs.microsoft.com/es-ES/azure/architecture/solution-ideas/media/cross-platform-chat.png" alt="cross-platform-chat" width="400" />
 </p>
-<p align="center"> https://docs.microsoft.com/es-es/azure/architecture/solution-ideas/articles/cross-platform-chat </p>  
+<p align="center"> https://docs.microsoft.com/es-es/azure/architecture/solution-ideas/articles/cross-platform-chat </p> 
 
 #####  Flujo de datos #####  
 - La aplicación de chat web se conecta a SignalR Service y recibe un token.  
 - El usuario inicia sesión en la aplicación con la autenticación multifactor; si la supera, se devuelven el punto de conexión de SignalR y el token de portador.  
 - El usuario se conecta a SignalR Service con el punto de conexión y el token.  
 
-<p align="centro">
+<p align="center">
   <img src="https://www.compartimoss.com/static/cf87d91c43f165c7e0cd338d055e275c/2bef9/image3.png" alt="signalr-service" width="650" />
 </p>  
 <p align="center"> https://www.compartimoss.com/revistas/numero-36/eventos-real-time-con-azure-signalr-en-asp-net-core/ </p>  
@@ -63,14 +63,14 @@ El modelo de hospedaje de Blazor Server ofrece las siguientes ventajas:
 - En el servidor, .NET se usa para ejecutar la aplicación, por lo que las herramientas de .NET existentes, como la depuración, funcionan según lo previsto.
 - Se presentó clientes ligeros. Por ejemplo, las aplicaciones del lado servidor funcionan con exploradores que no eliminaron WebAssembly y en dispositivos con restricción de recursos.
 - La base del código de la aplicación .NET/C#, incluido el código de componente de la aplicación, no se sirve a los clientes.  
-<p align="centro">
+<p align="center">
   <img src="https://docs.microsoft.com/es-es/dotnet/architecture/blazor-for-web-forms-developers/media/hosting-models/blazor-server.png" alt="blazor- servidor" ancho="450" ​​/>
 </p>  
 <p align="center"> https://docs.microsoft.com/es-es/dotnet/architecture/blazor-for-web-forms-developers/hosting-models </p>  
 
 ##  Implementación ##
 El proyecto está desarrollado usando la metodología de Arquitectura de N-Capas la cual se presta a reutilización de código por parte de distintas capas de presentación.
-<p align="centro">
+<p align="center">
   <img src="https://docs.microsoft.com/es-es/dotnet/architecture/cloud-native/media/direct-client-to-service-communication.png" alt="direct-client-to- servicio-comunicación" width="500" />
 </p>  
 <p align="center"> https://docs.microsoft.com/es-es/dotnet/architecture/cloud-native/front-end-communication </p>  
@@ -103,11 +103,11 @@ El proyecto está desarrollado usando la metodología de Arquitectura de N-Capas
 ##  Requisitos ##
 -Net Framework Core 6
 
-##  Diagrama de clases ##
-![ ClassDiagram1 ](https://user-images.githubusercontent.com/91495463/176903373-1d8bcbc8-2e5c-4af8-8e91-471e0ec832d5.jpg)
+## Diagrama de clases ##
+![ClassDiagram1](https://user-images.githubusercontent.com/91495463/176903373-1d8bcbc8-2e5c-4af8-8e91-471e0ec832d5.jpg)
 
-## Diagrama Entidad-Relación ##
-![ imagen ](https://user-images.githubusercontent.com/91495463/176903469-e15ac123-08a6-448e-8cd0-52d5589dd0ce.png)
+##Diagrama Entidad-Relacion ##
+![image](https://user-images.githubusercontent.com/91495463/176903469-e15ac123-08a6-448e-8cd0-52d5589dd0ce.png)
 
 ##  Glosario ##
 - Back-end: La parte de una aplicación que almacena y manipula datos.
