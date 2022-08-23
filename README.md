@@ -1,10 +1,10 @@
 #  Mar del Chat #
 
 ##  Integrantes Grupo 1 ##
--Lucas Varela
+- Lucas Varela
 - Damián Bosatta
-- Nicolás Francolino
 - Fabián Labrunée
+- Nicolás Francolino
 ##  Introducción ##
 Trabajo Final del Bootcamp Backend .NET / C# - DEV PLACE Tech Academy.
 	Este proyecto se trata de un servicio de chat en tiempo real implementado con tecnología .Net contra SQL Server mediante API
