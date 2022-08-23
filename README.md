@@ -102,7 +102,7 @@ El proyecto está desarrollado usando la metodologia de Arquitectura de N-Capas 
     └───Properties  
 ```
 ## Requisitos ##
--Net Framework 4.5
+-Net Framework Core 6
 
 ## Diagrama de clases ##
 ![ClassDiagram1](https://user-images.githubusercontent.com/91495463/176903373-1d8bcbc8-2e5c-4af8-8e91-471e0ec832d5.jpg)
