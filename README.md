@@ -8,8 +8,8 @@
 ## Introducción ##
 Trabajo Final del Bootcamp Backend .NET / C#  - DEV PLACE Tech Academy.
 	Este proyecto se trata de un servicio de chat en tiempo real implementado con tecnologia .Net contra SQL Server mediante APIs
-	en el BackEnd consumidas por la interfaz de usuario ...en el FrontEnd. El mismo se centra en el diseño y desarrollo de un servidor 
-	que proporciona soporte mediante ¿endpoints?(para no repetir APIs) a una aplicación llamada ??, la cual permite la interacción 
+	en el BackEnd consumidas por la interfaz de usuario en el FrontEnd. El mismo se centra en el diseño y desarrollo de un servidor 
+	que proporciona soporte a una aplicación, la cual permite la interacción 
 	entre distintos usuarios registrados que pueden interactuar con otros mediante salas de chat individuales o grupales.
 	El usuario se debe registrar en el FrontEnd para comenzar a chatear con otro usuario mediante una sala individual o puede 
 	acceder a una sala grupal donde hay mas usuarios. Las salas no son persistentes, son destruidas al finalizar la sesión todos
